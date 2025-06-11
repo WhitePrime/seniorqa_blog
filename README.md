@@ -2,7 +2,9 @@
 
 This is a fork of the original [Mediumish Jekyll Theme](https://github.com/wowthemesnet/mediumish-theme-jekyll), with full dark mode support added by [Nicco Cirone](https://niccocirone.com).
 
-🔗 Live example: [niccocirone.com/blog](https://niccocirone.com/blog)
+🔗 Live examples: 
+[Live Demo](https://niccocirone.com/dark-theme-for-mediumish-theme-jekyll/)
+[niccocirone.com/blog](https://niccocirone.com/blog)
 
 ## Key Features
 - Automatic dark mode via `prefers-color-scheme`
