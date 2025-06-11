@@ -83,6 +83,14 @@ h1, h2, h3, h4, h5, h6,
   display: inline-block;
 }
 
+.rating-holder {
+  background: transparent !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+  padding: 0;
+  margin: 0;
+}
+
 /* Card Footer */
 .card-footer {
   background-color: #1a1a1a;
