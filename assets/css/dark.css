@@ -230,6 +230,33 @@ textarea {
   border: 1px solid rgba(255, 255, 255, 0.3);
 }
 
+/* Alertbar */
+.alertbar {
+  background-color: #1a1a1a !important;
+  color: #f0f0f0 !important;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.alertbar img {
+  filter: brightness(0) invert(1); /* Makes dark logo usable on dark background */
+}
+
+.alertbar input[type="email"] {
+  background-color: #2a2a2a;
+  color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.alertbar input[type="submit"] {
+  background-color: #00ab6b;
+  color: #fff;
+  border: none;
+}
+
+.alertbar input[type="submit"]:hover {
+  background-color: #038252;
+}
+
 .sep {
   background: rgba(255, 255, 255, 0.2);
 }
